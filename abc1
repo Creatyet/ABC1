@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remy GOZ - Butterfli</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #0056b3;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            background-color: #004494;
+        }
+        section {
+            padding: 20px;
+            margin: 10px auto;
+            max-width: 800px;
+            background: white;
+        }
+        footer {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Remy GOZ - Butterfli</h1>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#fleet">Fleet</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact Us</a>
+        <a href="#faqs">FAQs</a>
+        <a href="#careers">Careers</a>
+    </nav>
+    <section id="home">
+        <h2>Welcome to Butterfli</h2>
+        <p>Our Vision: Driving Transformation in Transportation and Healthcare.</p>
+        <p>At Butterfli, we’re not just a transportation service – we're a catalyst for change. Our mission is clear: to break down mobility barriers, revolutionize healthcare transportation, and transform city commuting. Through personalized service and cutting-edge technology, we're making a real difference in the lives of those facing mobility challenges, redefining the healthcare industry, and reshaping the way cities move. Welcome to a world where every ride is a step toward progress, where convenience, compassion, and innovation converge to create a brighter, more accessible future.</p>
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Butterfli is dedicated to transforming transportation and healthcare services through innovation and personalized service. Learn more about our mission, values, and the team that makes it all happen.</p>
+    </section>
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>Discover the wide range of services we offer to meet your transportation needs, from non-emergency medical transportation to city commuting solutions.</p>
+    </section>
+    <section id="fleet">
+        <h2>Our Fleet</h2>
+        <p>Explore our modern, accessible, and eco-friendly fleet designed to provide comfort and safety for all passengers.</p>
+    </section>
+    <section id="testimonials">
+        <h2>Testimonials</h2>
+        <p>Read what our satisfied clients have to say about their experiences with Butterfli.</p>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Stay updated with the latest news, tips, and stories from Butterfli.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Get in touch with us for more information or to schedule a service.</p>
+    </section>
+    <section id="faqs">
+        <h2>FAQs</h2>
+        <p>Find answers to the most frequently asked questions about our services.</p>
+    </section>
+    <section id="careers">
+        <h2>Careers</h2>
+        <p>Join our team and be part of the transformation in transportation and healthcare. Check out our current job openings.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Remy GOZ - Butterfli. All rights reserved.</p>
+    </footer>
+</body>
+</html>
